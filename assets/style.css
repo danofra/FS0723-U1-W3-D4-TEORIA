@@ -72,3 +72,9 @@ h1 {
   background-color: #e42626;
   color: #fff;
 }
+
+#footer-bar {
+  text-align: center;
+  color: black;
+  padding: 20px;
+}
